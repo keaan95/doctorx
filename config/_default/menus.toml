@@ -1,0 +1,19 @@
+[[main]]
+  name = "Our Team"
+  url = "#about"
+  weight = 1
+
+[[main]]
+  name = "Latest Articles"
+  url = "/posts/"
+  weight = 2
+
+  [[main]]
+ name = "Coding Tutorials"
+  url = "/docs/"
+  weight = 50
+
+  [[main]]
+  name = "LIVE Survey"
+  url = "https://forms.office.com/Pages/ResponsePage.aspx?id=yRJQnBa2wkSpF2aBT74-h4_904xzEU1Hr6_KZJuPREVUMFMzQVNaVjU3NTQwMkxUSE4yN1RPSFhTRy4u"
+  weight = 100
