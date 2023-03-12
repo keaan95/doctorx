@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toigian on Toigian</title>
+    <link>http://example.org/tags/toigian/</link>
+    <description>Recent content in toigian on Toigian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2022 18:12:11 +0700</lastBuildDate><atom:link href="http://example.org/tags/toigian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Hugo Toigian</title>
+      <link>http://example.org/posts/welcome-to-hugo-toigian/</link>
+      <pubDate>Tue, 25 Oct 2022 18:12:11 +0700</pubDate>
+      
+      <guid>http://example.org/posts/welcome-to-hugo-toigian/</guid>
+      <description>Toigian - Tối giản (vietnamese): Minimalist (english)
+Disclaimer: I&amp;rsquo;m not a front-end developer, just a guy who like tweaking stuff, so my code may not be pretty/clean. I attempt to learn Tailwind CSS, and hugo-toigian is the result.
+ 0. Showcase Take a look at demo site.
+   Dark Light                        1.</description>
+    </item>
+    
+  </channel>
+</rss>

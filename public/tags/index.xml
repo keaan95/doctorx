@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Toigian</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Toigian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Oct 2022 17:12:11 +0700</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>http://example.org/tags/hugo/</link>
+      <pubDate>Wed, 26 Oct 2022 17:12:11 +0700</pubDate>
+      
+      <guid>http://example.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>http://example.org/tags/tech/</link>
+      <pubDate>Tue, 25 Oct 2022 18:12:11 +0700</pubDate>
+      
+      <guid>http://example.org/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toigian</title>
+      <link>http://example.org/tags/toigian/</link>
+      <pubDate>Tue, 25 Oct 2022 18:12:11 +0700</pubDate>
+      
+      <guid>http://example.org/tags/toigian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagrams</title>
+      <link>http://example.org/tags/diagrams/</link>
+      <pubDate>Tue, 25 Oct 2022 17:12:11 +0700</pubDate>
+      
+      <guid>http://example.org/tags/diagrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>http://example.org/tags/shortcode/</link>
+      <pubDate>Fri, 21 Oct 2022 17:12:11 +0700</pubDate>
+      
+      <guid>http://example.org/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
