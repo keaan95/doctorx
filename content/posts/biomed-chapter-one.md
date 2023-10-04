@@ -42,5 +42,5 @@ Now would be a good time actually as I have an essay due tomorrow on ‘What is 
 ### End of First Term
 A lot of our lectures are actually held in a converted church. Sounds more glamorous than it actually is - but its cosy enough that you'll nearly always spot your mates in the assembly. The days of every seat filled are long gone (pre the days of lecture recordings). Anyway, as we all say our goodbyes to each other and head off - a mate shouts 'see you later Vitamin K.' I knew some shit nickname was brewing. Much rather that than 'peptide,' to be fair.
 
-## chapter two - what even is research
-[chapter two - end of year one biomed](/posts/biomed-chapter-two)
+## next
+[end of year one biomed](/posts/biomed-chapter-two)

@@ -2,7 +2,7 @@
 title = "off the field"
 date = 2018-11-25T17:12:11+07:00
 comment = true
-tags = ["personal"]
+tags = ["personal","management"]
 +++
 
 ## off the field

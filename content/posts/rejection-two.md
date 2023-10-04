@@ -18,6 +18,6 @@ The challenge is building a record of implementation work - whether that be rese
 \
 \
 Looking back - this is the **more than full-time hustle** of being a doctor. Lots of years of training await - heck im not even trained but all this helps. Helps dig into the deeper reasons for me wanting to do medicine. To act in the interest of others? Deliver on a personal level? Prove people wrong? Proper business sounding cheese. Back to lectures for now.
-\
+
 #### chapters
 [rejection #1](/posts/rejection-one) / [rejection #3](/posts/rejection-three)

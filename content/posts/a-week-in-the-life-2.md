@@ -1,6 +1,6 @@
 +++
 title = "a week in the life of a third year"
-date = 2019-10-06
+date = 2019-10-06T17:12:11+07:00
 comment = true
 tags = ["personal","academic","medical-school"]
 +++

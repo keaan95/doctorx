@@ -62,4 +62,8 @@ if you're 26 and post-medical school, i hope you've enjoyed university because i
 university is fun but costly. lots of experiences, skills and reflections to take onto your next job. so live it up.
 
 ## what's the alternative
-[european medicine](/posts/europeanmedicine) / [leaving medicine](/posts/leaving-medicine) / [surviving biomed](/posts/survingbiomed)
+- europe
+- leave med
+- choose biomed
+
+

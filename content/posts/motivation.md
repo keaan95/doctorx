@@ -2,7 +2,7 @@
 title = "what is motivation"
 date = 2016-10-11T17:12:11+07:00
 comment = true
-tags = ["personal","academic"]
+tags = ["personal"]
 +++
 
 

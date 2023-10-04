@@ -1,11 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.DoctorX.co.uk/'
 languageCode = 'en-us'
-title = 'Toigian'
+title = 'doctorx'
 theme = "hugo-toigian"
-
-# (Optional) If you provide a Disqus shortname, comments will be enabled on
-# all pages.
-# disqusShortname = "my-site"
+googleAnalytics = "G-MT4667VS8N"
+disqusShortname = "cranky-mayer-a22b3f-netlify-app"
 
 [params]
 # (Optional, default true): Controls table of contents visibility on right side of pages.
@@ -18,8 +16,8 @@ toc = true
 comments = true
 
 [params.author]
-name = "Kien Nguyen-Tuan"
-email = "kiennt2609@gmail.com"
+name = "Keaan Amin"
+email = "keaan95@hotmail.com"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -42,11 +40,19 @@ email = "kiennt2609@gmail.com"
 # The left side navbar at the top
 [menu]
   [[menu.nav]]
-  name = "About"
+  name = "what is this"
   url = "/about"
   weight = 2
 
   [[menu.nav]]
-  name = "Posts"
+  name = "the latest"
   url = "/posts"
   weight = 3
+
+  [[menu.nav]]
+  name = "coverage"
+  url = "/tags"
+  weight = 4
+
+[build]
+  writeStats = true

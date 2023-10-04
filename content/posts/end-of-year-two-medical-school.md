@@ -42,5 +42,5 @@ big commitments this year with the high-powered Newcastle Emergency Medicine Soc
 \
 next year i'm actually in durham and moving to durham. looking forward to clinical medicine (finally!)!
 
-## where next
-[end of year one biomed](/posts/biomed-chapter-two) / [four rejections](/posts/biomed-chapter-four)
+## next
+[fear of failure](/posts/fear-of-failure)

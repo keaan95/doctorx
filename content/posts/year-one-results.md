@@ -6,9 +6,6 @@ tags = ["personal","academic","medical-school"]
 +++
 
 ## year one results.
-
-![image](/images/year-one-results.jpg)
-### scores
 Passed.
 Ranked **267/456**
 \

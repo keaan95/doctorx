@@ -1,8 +1,8 @@
 +++
 title = "healthcare leadership academy interview"
-date = 2020-05-17
+date = 2020-05-17T17:12:11+07:00
 comment = true
-tags = ["personal","medical-school"]
+tags = ["personal","management"]
 +++
 
 ## what is the healthcare leadership academy (hla)

@@ -13,19 +13,12 @@ tags = ["personal","academic","medical-school"]
 
 ### so what did you learn this year eh?
 - leverage your skills
-- how to build a leader
 - find the gamechangers
 - flat harmony
 - professionalism is key
 
-#### how to build a leader
-You need a housemate that's got the kit. The four player FIFA sesh, the four player mario kart. Dan's the man.
-\
-\
-You also need a housemate that appreciates you've had one too many. Ketchup shots. Dan's the man.
-
 #### the gamechangers
-so i joined the newcastle emergency medicine society - albeit simply because of [previous full-time A&E healthcare assistant work](/posts/healthcare-assistant). the members of this society really are unbelievable. you've got 10 committee members pumping out live emergency simulation events every two weeks across the academic year. these are stressful and they cover all kinds of crazy and wacky stuff - carbon monoxide poisoning, opiate overdoses, massive intracranial trauma - its crazy but its been one of the best experiences.
+so i joined the newcastle emergency medicine society - albeit simply because of [previous full-time A&E healthcare assistant work](/posts/healthcare-assistant). the members of this society really are unbelievable. you've got 10 committee members pumping out live emergency simulation events every two weeks across the academic year. these are stressful and they cover all kinds of crazy and wacky stuff - carbon monoxide poisoning, opiate overdoses, massive intracranial trauma - its crazy but its been one of the best experiences i've ever had.
 \
 \
 one of the members of the society committee is a second year. a second year! it turns out this guy is a high-flyer but so much respect for the enthusiasm and commitment. i applied to join the committee and somehow got the job. blagging about some skills below. looking back - this society was a huge part of my enjoyment at uni.
@@ -37,7 +30,7 @@ you can build a website. you can write feedback forms. pitch it. it turns out it
 i also really wanted to become president - that was one of my [three goals](/posts/middle-of-the-pack). and your boy has become President of the Newcastle Academic Medicine Society. a lot of big words there.
 
 #### flat harmony
-way back when we've talked about flat chemistry ([end of year one biomed](/posts/biomed-chapter-two)). flat harmony is the next level. chemistry is volatile. harmony is smooooth. god ive really become a boring grad - more on that next [year](/posts/end-of-year-two-medical-school).
+way back when we've talked about flat chemistry ([end of year one biomed](/posts/biomed-chapter-two)). flat harmony is the next level. chemistry is volatile. harmony is smooooth. god ive really become a boring grad. more on that next [year](/posts/end-of-year-two-medical-school).
 \
 \
 anyway - through all the fire alarms, meetings with residence and boozy nights dragging the inebriated home. you just gotta take care of the people around you - just like the people who have taken care of you over the years. that was cute.

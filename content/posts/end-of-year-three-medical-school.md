@@ -30,3 +30,4 @@ collaborate, collaborate, collaborate. even as a way to generate ideas. people w
 despite letting go of academic medicine society work, i've been motoring with haematology and oncology society work. anyway so part of collaborating is also sharing and communicating ideas. i've definitely learnt the importance of this - especially with people you've got a working relationship with. people like their ideas. people like to see their ideas worked on and adapted on. just keep them informed.
 
 ## where next
+[lockdown reflections](/posts/hla-reflections)

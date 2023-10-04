@@ -1,6 +1,6 @@
 +++
 title = "two goals for medical school"
-date = 2020-04-12
+date = 2020-04-12T17:12:11+07:00
 comment = true
 tags = ["personal","medical-school"]
 +++

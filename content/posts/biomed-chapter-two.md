@@ -36,9 +36,8 @@ Your flatmates will be in disbelief. How is this skinny, average height, average
 
 #### 68% Degree Average
 Been cruising along this year and keeping things ticking over. Smashed out a 47% in one of my exams. Yet I've cranked out a **68%**. I guess my patient leaflets have been banging.<br><br>
-I know one day I'd love to study medicine and I also love a bit of [research](/posts/research). (I remember thinking to myself back in 2014), If I really push myself at this degree - maybe hit top of the class, there's no way they can reject me.
+I know one day I'd love to study medicine and I also love a bit of [research](/posts/research). If I really push myself at this degree - maybe hit top of the class and get an award, there's no way they can reject me.
 
 
-## chapters
-[chapter one - welcome to biomed](/posts/biomed-chapter-one)
-[chapter two - end of year two biomed](/posts/biomed-chapter-three)
+## next
+[end of year two biomed](/posts/biomed-chapter-three)

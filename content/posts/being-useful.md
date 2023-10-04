@@ -17,5 +17,5 @@ and now fast forward to September of 2018, as I begin my post as President of th
 \
 by continuing to try and be a useful student, i really believe i've got a good shot at becoming an academic doctor. all the previous medical schools rejections, tutors and people counting me out - we'll see how this one goes.
 
-### chapters
+### next
 [off the field struggles](/posts/off-the-field)

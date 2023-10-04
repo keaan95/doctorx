@@ -1,8 +1,8 @@
 +++
-title = "summer research round 3? healthcare assistant round 2?"
+title = "healthcare assistant round 2"
 date = 2020-04-03T17:12:11+07:00
 comment = true
-tags = ["personal","medical-school"]
+tags = ["personal","medical-school","healthcare-assistant"]
 +++
 
 
@@ -22,4 +22,8 @@ After a third family huddle, it has become clear that I cannot work from home. P
 What will it take for me to work in clinical practice currently? Arriving home to spend time with family cannot seemingly blend well with being able to commit yourself clinically. This is a sticky reality.
 \
 \
-In the meantime I've applied for an **HLA Scholarship** (last minute thanks to BST timezones with lots of supportive advice from the sister), begun to research epidemiological models and loosely done some background revision. There is more to do outside of clinical practice. Just not having the option to do so is very, very tough. For now, I've enquired about a reduction in rent to enable me to live outside from home. Speculative and hopeful. We will just have to wait.
+In the meantime I've applied for an **[HLA](/posts/hla-interview) Scholarship** (last minute thanks to BST timezones with lots of supportive advice from the sister on my video application), begun to research epidemiological models and loosely done some background revision. There is more to do outside of clinical practice. Just not having the option to do so is very, very tough. For now, I've enquired about a reduction in rent to enable me to live outside from home. Speculative and hopeful. We will just have to wait.
+
+### next
+[end of year three medical school](/posts/end-of-year-three-medical-school)
+

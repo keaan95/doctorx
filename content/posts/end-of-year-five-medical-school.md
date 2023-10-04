@@ -1,5 +1,5 @@
 +++
-title = "good people"
+title = "goodbye uni"
 date = 2022-07-30T17:12:11+07:00
 comment = true
 tags = ["personal","academic","medical-school","biomed"]
@@ -8,6 +8,7 @@ tags = ["personal","academic","medical-school","biomed"]
 
 
 ## well goodbye uni
+![image](/images/final-year.jpg)
 that's it? surely you've got some shit to say.
 
 ### over nine years of uni what you learnt then?
@@ -23,7 +24,7 @@ someone that listens to others. don't be forceful. don't be stubborn. give other
 good people also encourage others. its the small things. its the compliments. guys don't give other guys compliments - nearly as much as girls - but when you do - its fucking real. so yep dish it out.
 \
 \
-trying to good for the purpose of being good can be energy consuming. so be you. just be aware people will care for you - just give them back what they put in.
+trying to do good for the purpose of being good can be energy consuming. so be you. just be aware people will care for you - just give them back what they put in.
 
 ### so nine years are up - what have i learnt?
 just be authentic - be you. nothing can replace it - and if you stinks - soz mate sort it out
@@ -40,3 +41,6 @@ be instinctive - if something feels right - then it probably is. you feel like a
 - Ask others what they would do - others have great perspectives and often more experiences - listen attentively.
 - Sleep well and listen to your head, not just your body. If you feel tired mentally - that will affect your body.
 - Continue to have fun. can't compete against someone having fun.
+
+### next
+[well hello doctorx](/posts/before-the-bleep)
