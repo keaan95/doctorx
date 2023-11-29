@@ -2,7 +2,7 @@
 title = "masters acceptance?"
 date = 2016-07-25T17:12:11+07:00
 comment = true
-tags = ["personal","academic","biomed"]
+tags = ["personal","academic","cambridge"]
 +++
 
 
@@ -26,7 +26,7 @@ Cambridge (interview...)
 Heading down the escalator in M&S Kingston, glanced at the phone - email notification with **'University of Cambridge conditional offer of Admission.'**
 \
 \
-Pretty cool. I actually sat on the news until evening. Told my parents at dinner. My mum asks why aren't you excited? I just knew there's hard work to come. I know from sister, who did NatSci at Churchill - how big of a transition Cambridge is - not purely the workload. But internally, I was so excited, intrigued to see which College I would be at.
+Pretty cool. I actually sat on the news until evening. Told my parents at dinner. My mum asks why aren't you excited? I just knew there's hard work to come. I know from sister, who did NatSci at Churchill - how big of a transition Cambridge is - not purely the workload. But internally, I was so excited, so fucking excited - how on earth have I fucking done this.
 \
 \
 It may not be medical school but doing a summer research studentship after the first year of my undergraduate degree really helped fuel my enthusiasm for research and interest in cancer genomics. Having a little bit of experience in computational biology, probably helped my application despite having long-term medical school ambitions.

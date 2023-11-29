@@ -1,5 +1,5 @@
 +++
-title = "four medical school rejections"
+title = "four medical school rejections - a welcome to my blog"
 date = 2016-02-21T17:12:11+07:00
 comment = true
 tags = ["personal","academic","biomed"]
@@ -8,7 +8,11 @@ tags = ["personal","academic","biomed"]
 
 
 ## four rejections but a welcome
-a welcome to my blog - previously titled '[Hunting Medicine](huntingmedicine.blogspot.com).' at the time of writing this, i was a third year / final year biomedical science student at plymouth university. still clinging onto hope of studying medicine. this is the account of me back then. a bit cheesy but hey it is the competitive me.
+a welcome to my blog - previously titled 'Hunting Medicine' at the time of writing this, i was a third year / final year biomedical science student at plymouth university. still clinging onto hope of studying medicine. this is the account of me back then. a bit cheesy but hey it is the more competitive me.
+\
+\
+since 2016, a few diary entries have been re-written more in my [writing style](/posts/writing-style) - however the core text remains the same. don't believe me - check out the original untouched blog [here](https://huntingmedicine.blogspot.com).
+
 
 #### Scores
 GAMSAT score: 56

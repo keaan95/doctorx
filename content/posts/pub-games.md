@@ -8,13 +8,14 @@ tags = ["personal","academic","fun-and-games"]
 
 
 ## pub uni games
+![image](/images/pub-games.jpg)
 pub games are cracking. they can be notoriously good fun. they can be notoriously cruel. the best games have a bit of both.
 \
 \
 we also love pub games as a means of drinking. but how about pub games as a means of thinking?
 
 ### basic boy pub games
-- chats about health, finanes, relationships and careers. should always be on the itinerary tbf
+- chats about health, finances, relationships and careers. should always be on the itinerary tbf
 - re-enacting sky sports skits.
 - anything the rugby guys can think of.
 
@@ -23,12 +24,12 @@ we also love pub games as a means of drinking. but how about pub games as a mean
 - favourite thing about the person to your left
 - most recent text
 - 1 on 1 q&a (non-romantic - entirely platonic) with one person - who is it?
+- lose all social media and keep one app - what is it
 - build a three man team of zombie fighters
 - you're lord Voldemort. You have to choose a member of the group to horcrux. Who is it?
 
 ### juicy fruit pub games
 - shag the consultant or flirty medical student
-- lose all social media and keep one app - what is it
 - who should never go into medical practice?
 - apocalypse - everyone has died. you gotta revive person and make kids with them. who is it?
 - who would make the best parent or parents?
@@ -45,4 +46,4 @@ we also love pub games as a means of drinking. but how about pub games as a mean
 
 
 #### credits
-*massive creds to the final year uni social gorup for a lot of inspiration for these questions - we actually have an excel spreadsheet of approximately 200 questions - this is enough for now*
+*massive creds to the final year uni social groupp for a lot of inspiration for these questions - we actually have an excel spreadsheet of approximately 200 questions - this is enough for now*

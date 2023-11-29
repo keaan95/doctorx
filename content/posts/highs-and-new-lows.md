@@ -23,3 +23,6 @@ during both exams, i just felt unable to apply what i've learnt. i think just th
 \
 \
 it feels a bit costly but looking back, but i'm glad I've experimented. for now: **A Charity Pub Quiz** to prepare for! [Very Abstract!]
+
+### next
+[insights from the phd boys](/posts/insights-from-the-phd-boys)

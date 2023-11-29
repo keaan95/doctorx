@@ -22,7 +22,7 @@ tags = ["personal","academic","cambridge"]
 - memes
 
 #### smash the servers
-my thesis is computer-based. programming in r - looking at trends in genetic data to better identify particular cancer types. so it requires a fair amount of heavy duty code. some of this code will actually take down one of the servers through one of your server requests. your cambridge supervisor will actually be impressed.
+my thesis is computer-based. programming in a language called r - looking at trends in genetic data to better identify particular cancer types. so it requires a fair amount of heavy duty code. some of this code will actually take down one of the servers through one of your server requests. your cambridge supervisor will actually be impressed.
 \
 \
 fun fact years ago back in 2014 at plymouth, you'll do a similar thing and crash the computer due to data overload. your supervisor wasn't so impressed. i believe departmental budgets is the big difference.

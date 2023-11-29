@@ -29,3 +29,5 @@ I’ve realised over these past five months that developing a deep knowledge of 
 \
 Good lessons to have approaching final year. I still feel like there are lots of areas in improve but thankfully we do have 3.5 months to really build on this for the future.
 
+### next
+[end of year four](/posts/end-of-year-four-medical-school)

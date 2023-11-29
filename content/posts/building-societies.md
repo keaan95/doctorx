@@ -1,8 +1,8 @@
 +++
 title = "Building Societies"
-date = 2019-12-17
+date = 2019-12-17T17:12:11+07:00
 comment = true
-tags = ["academic", "personal", "medical-school"]
+tags = ["academic", "personal", "medical-school", "management"]
 +++
 
 ## Building Societies.

@@ -2,12 +2,12 @@
 title = "insights from the phd boys"
 date = 2019-02-04T17:12:11+07:00
 comment = true
-tags = ["personal"]
+tags = ["personal","cambridge"]
 +++
 
 ## insights from the phd boys
 ![image](/images/phd-boys.jpg)
-the sun is out. Springtime in Newcastle has never seemingly looked so good in early February.
+*the sun is out. Springtime in Newcastle has never seemingly looked so good in early February. what is that lid though mate.*
 \
 \
 A relaxing weekend back home also included a trip back to Cambridge to visit the old stomping grounds - Wolfson Court. Sadly, it is in a early stage of disrepair after closing down just after we left last summer.

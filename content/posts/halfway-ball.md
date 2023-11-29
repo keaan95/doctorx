@@ -8,7 +8,7 @@ tags = ["personal","medical-school"]
 
 ## seven days in the life of a third year
 ![image](/images/halfway-ball.jpg)
-*sorta like one of those week in the life things you see on youtube. so this will stink a bit. at the time, i was a third year medical student at newcastle university.*
+*yep*
 
 ### Sunday 15th March
 It is freezing. I can hear students walking in the street. Birds are chirping. Yep, I woke up in my car this morning. Halfway Ball was not very memorable funnily enough.
@@ -35,28 +35,29 @@ Could I work on hobbies? Further qualifications? Publication preparation? Textbo
 Bags are packed. All ready to shift back home. Whilst planning to make a pit-stop to the library to drop-off books, I notice the possibility to collecting an online copy by scratching off the inside code. Well, its now or never to learn Obs+Gynae, Mental Health and Paediatrics using these valuable resources. At the library, whilst considering the likelihood of loans being extended regardless because of the virus, I consider the possibility of collecting more textbooks - this time question finals books.
 \
 \
-At the library, I meet a colleague. She's already planning to return to work as a HCA. It seems an incredibly valuable use of your time between now and September. Maintain clinical skills and exposure to teaching environments. That evening, I submit an application to St Peter's Hospital to work in their A&E Department full-time.
+At the library, I meet Helen. She's like so 'what have you got planned for the next few months?' 'Well not sure - still planning it out.' 'Well what about returning for more HCA work?' She's already planning to return to work as a HCA and it seems an incredibly valuable use of your time between now and September. Maintain clinical skills and exposure to teaching environments. That evening, I submit an application to St Peter's Hospital to work in their **A&E Department full-time.**
 
-### Wednesday 18th March
+### Wednesday 18th March - HCA Interview?
 The Yaris is packed. I'm off home. Goodbye Durham. Rumours of a lock-down affecting London are filtering through.
 \
 \
 On returning home, I receive an email explaining they would like to meet but:
 \
 \
-You may have already been invited to attend a recruitment event on the 28th March however due to the large numbers that were due to attend and the current guidelines on large gatherings, the Trust has decided that this event should be cancelled.
+`You may have already been invited to attend a recruitment event on the 28th March however due to the large numbers that were due to attend and the current guidelines on large gatherings, the Trust has decided that this event should be cancelled.`
 \
 \
-Hospitals seemingly can't even run recruitment events. The impact of coronavirus is becoming more and more real.
+Hospitals seemingly can't even run recruitment events. The impact of coronavirus is becoming more and more real. A&E Full-time is looking real again. This time under unprecendented conditions. Will require self-isolation from the family. A great deal of resilience and clinical understanding to cope. Will prepare for this as best as possible.
 
-### Thursday 19th March - Interviews Scheduled
+### Thursday 19th March - two interview invites in one day!
+#### HCA
 `Thank you for your application (AR-190-035-891) in respect of the above position. We are pleased to invite you to attend an interview.`
 \
 \
 A&E Full-time is looking real again. This time under unprecendented conditions. Will require self-isolation from the family. A great deal of resilience and clinical understanding to cope. Will prepare for this as best as possible.
-\
-\
-Thank you so much for your application. Please apologize us for the unexpected longer time taken for reviewing the applications. It has been a highly competitive call for only one position in our lab. We are happy to inform you that you have been pre-selected for the next stage of the process. First, we have attached the detailed project proposal that you will be working on during the summer and would like to know if you are motivated and keen to work on this project. 
+
+#### SUMMER RESEARCH
+`We are happy to inform you that you have been pre-selected for the next stage of the process. First, we have attached the detailed project proposal that you will be working on during the summer and would like to know if you are motivated and keen to work on this project.`
 \
 \
 Well, my third annual Institute of Cancer Research Summer Application has a bit more traction this time. We will see how this ends up tomorrow. Meanwhile, to start learning all about the proposal.

@@ -1,6 +1,6 @@
 +++
-title = "lockdown osces"
-date = 2021-01-14
+title = "the jeremy kyle osces"
+date = 2021-01-14T17:12:11+07:00
 comment = true
 tags = ["personal","academic","medical-school"]
 +++

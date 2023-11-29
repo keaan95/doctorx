@@ -46,3 +46,6 @@ Just fizzled out. Student interest died down. This sort of project is so depende
 \
 \
 Although we never scaled nationally or even got close, we made a difference - even though its just the one student response. Its a pretty good feeling.
+
+### the next side hustle
+[the art of meme making](/posts/meme-making)

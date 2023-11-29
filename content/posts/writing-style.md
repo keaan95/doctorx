@@ -11,11 +11,11 @@ well its your means of expressing what you know. in the case of this blog, its t
 \
 anyway so its:
 - your personal way of writing
-- in the context of science -> demonstrating to the reader you have an understanding, can pick out the key questions and can begin to address the problem. of course not always possible - so boom you've got the field of [research](/posts/research).
+- in the context of science -> demonstrating to the reader you have an understanding, can you pick out the key questions and can begin to address the problem. of course not always possible - so boom you've got the field of [research](/posts/research).
 
 ### so what is your writing style?
 - well how does it sound? and a way to figure that out - just read what you've got out loud.
-- On reading it through once, how would you respond to it?
+- and after reading through it once, how would you respond to it? is it defensive? is it broad and insubstantial? is it opinionated?
 
 
 ### okay i've read it out loud - now what?
